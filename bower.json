@@ -1,0 +1,22 @@
+{
+  "name": "venmo-transactions",
+  "description": "Visualize Venmo transactions in a graph",
+  "main": "server.js",
+  "authors": [
+    "doobix"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "c3": "~0.4.10",
+    "jquery": "~2.1.4"
+  }
+}
